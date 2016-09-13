@@ -12,6 +12,7 @@
 # line commented for production sites.
 # 
 SetEnv APPLICATION_ENV development
+SetEnv HTTPS "on"
 
 # ------------- #
 # Rewrite Rules #
