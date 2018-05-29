@@ -1,4 +1,5 @@
 db.ini
 files
 .DS_Store
+application/config/config.ini
 
