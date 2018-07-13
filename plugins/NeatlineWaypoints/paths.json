@@ -1,0 +1,24 @@
+{
+
+  "src": {
+    "js": {
+      "shared": "views/shared/javascripts"
+    },
+    "styl": {
+      "shared": "views/shared/css/stylus"
+    }
+  },
+
+  "dist": {
+    "js": {
+      "shared": "views/shared/javascripts/dist"
+    },
+    "css": {
+      "shared": "views/shared/css/dist"
+    }
+  },
+
+  "jasmine":    "tests/jasmine"
+
+}
+

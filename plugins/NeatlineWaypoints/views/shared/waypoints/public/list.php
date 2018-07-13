@@ -1,0 +1,20 @@
+<?php
+
+/**
+ * @package     omeka
+ * @subpackage  neatline-Waypoints
+ * @copyright   2012 Rector and Board of Visitors, University of Virginia
+ * @license     http://www.apache.org/licenses/LICENSE-2.0.html
+ */
+
+?>
+
+<script id="waypoints-public-list-template" type="text/templates">
+  <ul>
+    <% records.each(function(r) { %>
+      <a class="title" data-id="<%= r.id %>">
+        <%= r.get('title') %>
+      </a>
+    <% }); %>
+  </ul>
+</script>
