@@ -1,5 +1,5 @@
 # Root .htaccess
-/.htaccess
+#/.htaccess
 
 # php-cs-fixer cache
 /.php_cs.cache
@@ -13,7 +13,7 @@
 # Config files
 /db.ini
 /application/config/config.ini
-/application/tests/config.ini
+#/application/tests/config.ini
 
 # Log files
 /application/logs/errors.log
@@ -23,19 +23,12 @@
 # Test files
 /application/tests/_files/temp/
 
-# Plugins and themes
-/plugins/
-/themes/
-
 # Files
-/files/original/*
-/files/fullsize/*
-/files/square_thumbnails/*
-/files/theme_uploads/*
-/files/thumbnails/*
+files/
 
 # For macs
 .DS_Store
+._.DS_Store
 
 # For VIM
 .*.sw*
