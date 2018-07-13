@@ -1,0 +1,28 @@
+{
+  "name": "omeka-plugin-universalviewer",
+  "version": "2.4.6",
+  "description": "Universal Viewer (plugin for Omeka)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel-KM/Omeka-plugin-UniversalViewer.git"
+  },
+  "author": "Daniel Berthereau",
+  "license": "CECILL-2.1",
+  "bugs": {
+    "url": "https://github.com/Daniel-KM/Omeka-plugin-UniversalViewer/issues"
+  },
+  "homepage": "https://github.com/Daniel-KM/Omeka-plugin-UniversalViewer#readme",
+  "devDependencies": {
+    "async": "^2.6.0",
+    "del": "^3.0.0",
+    "gulp": "git+https://github.com/gulpjs/gulp.git#4.0",
+    "gulp-rename": "^1.2.2"
+  },
+  "dependencies": {
+    "universalviewer": "github:universalviewer/universalviewer#v2.0.2"
+  }
+}
