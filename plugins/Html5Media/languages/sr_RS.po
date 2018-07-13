@@ -1,0 +1,135 @@
+# Translation for the Html5Media plugin for Omeka.
+# Copyright (C) 2013 John Flatness
+# This file is distributed under the GNU General Public License, v3.
+# 
+# Translators:
+# Predrag Djukic <djukic.predrag@gmail.com>, 2014,2016
+# Predrag Djukic <djukic.predrag@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: omeka-plugin-Html5Media\n"
+"Report-Msgid-Bugs-To: http://github.com/zerocrates/Html5Media/issues\n"
+"POT-Creation-Date: 2013-05-14 13:53-0500\n"
+"PO-Revision-Date: 2017-09-19 21:27+0000\n"
+"Last-Translator: Predrag Djukic <djukic.predrag@gmail.com>\n"
+"Language-Team: Serbian (Serbia) (http://www.transifex.com/omeka/omeka-plugin-html5media/language/sr_RS/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sr_RS\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: Html5MediaPlugin.php:189
+msgid "Download File"
+msgstr "Преузими датотеку"
+
+#: Html5MediaPlugin.php:190
+msgid "Play"
+msgstr "Пусти"
+
+#: Html5MediaPlugin.php:191
+msgid "Pause"
+msgstr "Пауза"
+
+#: Html5MediaPlugin.php:192
+msgid "Mute Toggle"
+msgstr "Без звука"
+
+#: Html5MediaPlugin.php:193
+msgid "Fullscreen"
+msgstr "Приказ на читавом екрану"
+
+#: Html5MediaPlugin.php:194
+msgid "Captions/Subtitles"
+msgstr "Наслови/Поднаслови"
+
+#: Html5MediaPlugin.php:195
+msgid "None"
+msgstr "Ништа"
+
+#: Html5MediaPlugin.php:196
+msgid "Turn off Fullscreen"
+msgstr "Искључи Приказ на читавом екрану"
+
+#: Html5MediaPlugin.php:197
+msgid "Go Fullscreen"
+msgstr "Укључи Приказ на читавом екрану"
+
+#: Html5MediaPlugin.php:198
+msgid "Unmute"
+msgstr "Укључи звук"
+
+#: Html5MediaPlugin.php:199
+msgid "Mute"
+msgstr "Искључи звук"
+
+#: Html5MediaPlugin.php:200
+msgid "Download Video"
+msgstr "Преузми видео"
+
+#: Html5MediaPlugin.php:201
+msgid "Close"
+msgstr "Затвори"
+
+#: config-form.php:3
+msgid "Video Settings"
+msgstr "Видео подешавања"
+
+#: config-form.php:22 config-form.php:60
+msgid "Responsive Sizing"
+msgstr "Одговарајуће димензионисање"
+
+#: config-form.php:26
+msgid ""
+"Check the box below to allow the video player to automatically match its "
+"size to its container."
+msgstr "Означите кућицу испод да би видео плејеру било омогућено аутоматско усаглашавање сопствене величине са својим контејнером."
+
+#: config-form.php:33 config-form.php:71 config-form.php:97
+msgid "MIME Types"
+msgstr "Врсте MIME"
+
+#: config-form.php:41 config-form.php:79 config-form.php:105
+msgid "Extensions"
+msgstr "Екстензије"
+
+#: config-form.php:49
+msgid "Audio Settings"
+msgstr "Аудио подешавања"
+
+#: config-form.php:64
+msgid ""
+"Check the box below to allow the audio player to automatically match its "
+"width to its container."
+msgstr "Означите кућицу испод да би аудио плејеру било омогућено аутоматско усаглашавање сопствене величине са својим контејнером."
+
+#: config-form.php:87
+msgid "Text Settings"
+msgstr "Текстуална подешавања"
+
+#: config-form.php:90
+msgid ""
+"Text files are data like subtitles and chapter names. HTML5 Media will "
+"include them as tracks of audio or video files with the same original "
+"filename on the same item."
+msgstr "Текстуални документи су подаци попут поднаслова или наслова поглавља. HTML5 Media ће их укључити као датотеке аудио или видео садржаја са истим оригиналним називом датотеке саме јединице."
+
+#: config-form.php:113
+msgid "Common Settings"
+msgstr "Заједничка подешавања"
+
+#: config-form.php:116
+msgid "Preload"
+msgstr "Претходно учитавање"
+
+#: config-form.php:123
+msgid "Metadata Only"
+msgstr "Само метаподаци"
+
+#: config-form.php:124
+msgid "Entire Media"
+msgstr "Сви медији"
+
+#: config-form.php:125
+msgid "Disabled"
+msgstr "Онемогућено"

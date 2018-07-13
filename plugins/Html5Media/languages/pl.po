@@ -1,0 +1,134 @@
+# Translation for the Html5Media plugin for Omeka.
+# Copyright (C) 2013 John Flatness
+# This file is distributed under the GNU General Public License, v3.
+# 
+# Translators:
+# Tomasz Sopylo <tomasz@sopylo.pl>, 2015-2016
+msgid ""
+msgstr ""
+"Project-Id-Version: omeka-plugin-Html5Media\n"
+"Report-Msgid-Bugs-To: http://github.com/zerocrates/Html5Media/issues\n"
+"POT-Creation-Date: 2013-05-14 13:53-0500\n"
+"PO-Revision-Date: 2017-09-19 21:27+0000\n"
+"Last-Translator: Tomasz Sopylo <tomasz@sopylo.pl>\n"
+"Language-Team: Polish (http://www.transifex.com/omeka/omeka-plugin-html5media/language/pl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+
+#: Html5MediaPlugin.php:189
+msgid "Download File"
+msgstr "Pobierz plik"
+
+#: Html5MediaPlugin.php:190
+msgid "Play"
+msgstr "Odtwarzaj"
+
+#: Html5MediaPlugin.php:191
+msgid "Pause"
+msgstr "Wstrzymaj"
+
+#: Html5MediaPlugin.php:192
+msgid "Mute Toggle"
+msgstr "Włącz/wyłącz wyciszenie"
+
+#: Html5MediaPlugin.php:193
+msgid "Fullscreen"
+msgstr "Pełny ekran"
+
+#: Html5MediaPlugin.php:194
+msgid "Captions/Subtitles"
+msgstr "Podpisy/Napisy"
+
+#: Html5MediaPlugin.php:195
+msgid "None"
+msgstr "Brak"
+
+#: Html5MediaPlugin.php:196
+msgid "Turn off Fullscreen"
+msgstr "Wyłącz tryb pełnoekranowy"
+
+#: Html5MediaPlugin.php:197
+msgid "Go Fullscreen"
+msgstr "Pełen ekran"
+
+#: Html5MediaPlugin.php:198
+msgid "Unmute"
+msgstr "Wyłącz wyciszenie"
+
+#: Html5MediaPlugin.php:199
+msgid "Mute"
+msgstr "Wycisz"
+
+#: Html5MediaPlugin.php:200
+msgid "Download Video"
+msgstr "Pobierz wideo"
+
+#: Html5MediaPlugin.php:201
+msgid "Close"
+msgstr "Zamknij"
+
+#: config-form.php:3
+msgid "Video Settings"
+msgstr "Ustawienia wideo"
+
+#: config-form.php:22 config-form.php:60
+msgid "Responsive Sizing"
+msgstr "Skalowanie responsywne"
+
+#: config-form.php:26
+msgid ""
+"Check the box below to allow the video player to automatically match its "
+"size to its container."
+msgstr "Zaznacz poniżej by pozwolić odtwarzaczowi wideo na automatyczne dopasowanie rozmiaru do wielkości kontenera."
+
+#: config-form.php:33 config-form.php:71 config-form.php:97
+msgid "MIME Types"
+msgstr "Typy MIME"
+
+#: config-form.php:41 config-form.php:79 config-form.php:105
+msgid "Extensions"
+msgstr "Rozszerzenia"
+
+#: config-form.php:49
+msgid "Audio Settings"
+msgstr "Ustawienia audio"
+
+#: config-form.php:64
+msgid ""
+"Check the box below to allow the audio player to automatically match its "
+"width to its container."
+msgstr "Zaznacz pole poniżej by zezwolić odtwarzaczowi audio na automatyczne dopasowanie swojej szerokości do kontenera."
+
+#: config-form.php:87
+msgid "Text Settings"
+msgstr "Ustawienia tekstu"
+
+#: config-form.php:90
+msgid ""
+"Text files are data like subtitles and chapter names. HTML5 Media will "
+"include them as tracks of audio or video files with the same original "
+"filename on the same item."
+msgstr "Pliki tekstowe to dane jak podpisy i nazwy rozdziałów. HTML5 Media wykorzysta je jako ścieżki  plików audio lub wideo z tą samą nazwą pliku dla tej samej publikacji."
+
+#: config-form.php:113
+msgid "Common Settings"
+msgstr "Ustawienia wspólne"
+
+#: config-form.php:116
+msgid "Preload"
+msgstr "Preload"
+
+#: config-form.php:123
+msgid "Metadata Only"
+msgstr "Tylko metadane"
+
+#: config-form.php:124
+msgid "Entire Media"
+msgstr "Całe media"
+
+#: config-form.php:125
+msgid "Disabled"
+msgstr "Wyłączony"
